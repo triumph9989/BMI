@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">serious</string>
+    <string name="name">請輸入姓名</string>
+    <string name="Weight">體重</string>
+    <string name="Height">身高</string>
+    <string name="Weight1">體重</string>
+    <string name="BMI">BMI</string>
+</resources>

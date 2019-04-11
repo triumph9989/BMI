@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">serious</string>
+    <string name="name" >Name</string>
+    <string name="Height" >Height</string>
+    <string name="Weight1" >Weight</string>
+    <string name="BMI" >BMI</string>
+</resources>
